@@ -1,0 +1,58 @@
+{
+    "home" : [
+        {
+            "id": 1,
+            "name": "Upto 35% Off",
+            "description": "Salon quality hair color at home!",
+            "image": "https://images-static.nykaa.com/uploads/a1c38e1e-f06f-44b2-a928-c79a20bcf85f.jpg?tr=w-800,cm-pad_resize"
+        },
+        {
+            "id": 2,
+            "name": "No. 1 Haircare in Salons",
+            "description": "Free kit on ₹1859, Mini on ₹1199",
+            "image": "https://images-static.nykaa.com/uploads/44b756d8-5c06-4d9b-9725-5a266b4cc6cf.jpg?tr=w-800,cm-pad_resize"
+        },
+        {
+            "id": 3,
+            "name": "Up To 50% Off + Free Lipstick",
+            "description": "Worth 899 on 1199",
+            "image": "https://images-static.nykaa.com/uploads/2d7f976a-d525-47fa-86a0-eb175a57ab52.jpg?tr=w-800,cm-pad_resize"
+        },
+        {
+            "id": 4,
+            "name": "Up To 35% off|Free Mini on ₹999+",
+            "description": "Transfer-Proof Lipsticks with Upto 16H Stay!",
+            "image": "https://images-static.nykaa.com/uploads/089f0085-6c0a-4899-81e5-f97b2a6e617c.jpg?tr=w-800,cm-pad_resize"
+        },
+        {
+            "id": 5,
+            "name": "On ₹2500: 1 Full-Size Gift, Pouch & Sample!",
+            "description": "On ₹5000: 3 Gifts & 10% Discount!",
+            "image": "https://images-static.nykaa.com/uploads/d55ecb09-a278-4db4-ab45-392c20652bc0.jpg?tr=w-800,cm-pad_resize"
+        },
+        {
+            "id": 6,
+            "name": "10% Off + a Clutch on ₹4000",
+            "description": "Festive Pouch on ₹3000",
+            "image": "https://images-static.nykaa.com/uploads/ab8af168-eb4b-45ba-8fe8-da647d9f81af.jpg?tr=w-800,cm-pad_resize"
+        },
+        {
+            "id": 7,
+            "name": "Lakme Up To 40% Off",
+            "description": "Serum foundation with Hyaluronic acid & niacinamide",
+            "image": "https://images-static.nykaa.com/uploads/3eb2094e-bac5-4142-a0cf-0ec50d19db21.jpg?tr=w-800,cm-pad_resize"
+        },
+        {
+            "id": 8,
+            "name": "Up To 20% Off",
+            "description": "Exciting Gifts On Bestsellers",
+            "image": "https://images-static.nykaa.com/uploads/75221509-fa53-4da2-bcda-b1df60353f09.jpg?tr=w-800,cm-pad_resize"
+        },
+        {
+            "id": 9,
+            "name": "On ₹3000: 2 Gifts",
+            "description": "On ₹5000: Mini Liquid Matte Lipstick",
+            "image": "https://images-static.nykaa.com/uploads/697352c8-e151-4e34-87ad-2ad6d5e4ed26.jpg?tr=w-800,cm-pad_resize"
+        }
+    ]
+}
